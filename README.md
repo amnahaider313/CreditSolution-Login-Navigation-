@@ -14,6 +14,7 @@ This repository contains automated test scripts written using **Selenium WebDriv
 - Navigation Through Sidebar
 - Form Submission
 - Broken Links Check
+- Screenshot Capture on Failure
 - Assertions & Reporting
 
 ## ▶️ How to Run Tests
