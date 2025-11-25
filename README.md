@@ -1,4 +1,4 @@
-#CreditSoluction Project Testing (Python)
+#CreditSolution Testing (Python)
 
 This repository contains automated test scripts written using **Selenium WebDriver + Python**.
 
