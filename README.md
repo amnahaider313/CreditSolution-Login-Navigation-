@@ -16,3 +16,17 @@ This repository contains automated test scripts written using **Selenium WebDriv
 - Broken Links Check
 - Assertions & Reporting
 
+## ▶️ How to Run Tests
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run tests:
+   pytest -v
+
+## ✨ Future Enhancements
+- API + UI Hybrid Tests
+- Parallel Execution
+
+## 👤 Author
+Amna Gillani — SQA Engineer  
